@@ -1,0 +1,11 @@
+timestamp,backend,model,simulated,prompt_id,category,repeat,prompt_tokens,output_tokens,ttft_s,total_s,gen_tps,prefill_tps,load_s,num_ctx,vram_mb,server_ram_mb,output_chars,error
+2026-11-22 11:25:55,llamacpp,SmolLM2-135M-Instruct.Q4_K_M.gguf,false,code-01,coding,1,67,220,0.385,5.672,41.43,175.54,,4096,,256.0,746,
+2026-11-22 11:25:55,llamacpp,SmolLM2-135M-Instruct.Q4_K_M.gguf,false,code-02,coding,1,83,254,0.331,7.021,37.82,257.16,,4096,,263.3,818,
+2026-11-22 11:25:55,llamacpp,SmolLM2-135M-Instruct.Q4_K_M.gguf,false,code-03,coding,1,92,260,0.501,6.314,44.56,186.99,,4096,,271.6,1018,
+2026-11-22 11:25:55,llamacpp,SmolLM2-135M-Instruct.Q4_K_M.gguf,false,reas-01,reasoning,1,74,195,0.611,6.986,30.42,123.50,,4096,,280.0,590,
+2026-11-22 11:25:55,llamacpp,SmolLM2-135M-Instruct.Q4_K_M.gguf,false,reas-02,reasoning,1,71,260,0.908,10.107,28.15,79.04,,4096,,286.4,927,
+2026-11-22 11:25:55,llamacpp,SmolLM2-135M-Instruct.Q4_K_M.gguf,false,reas-03,reasoning,1,78,240,0.876,9.295,28.17,97.07,,4096,,294.0,569,
+2026-11-22 11:25:55,llamacpp,SmolLM2-135M-Instruct.Q4_K_M.gguf,false,hing-01,hinglish,1,81,220,0.801,9.200,26.07,112.06,,4096,,301.4,395,
+2026-11-22 11:25:55,llamacpp,SmolLM2-135M-Instruct.Q4_K_M.gguf,false,hing-02,hinglish,1,83,260,0.898,9.800,29.09,101.54,,4096,,308.3,675,
+2026-11-22 11:25:55,llamacpp,SmolLM2-135M-Instruct.Q4_K_M.gguf,false,long-01,long-form,1,77,420,0.904,22.039,19.84,86.90,,4096,,309.4,2014,
+2026-11-22 11:25:55,llamacpp,SmolLM2-135M-Instruct.Q4_K_M.gguf,false,long-02,long-form,1,81,420,0.493,21.709,19.75,170.83,,4096,,319.1,2132,

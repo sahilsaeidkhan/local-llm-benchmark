@@ -1,0 +1,8 @@
+# Core benchmark (CLI + chart)
+requests>=2.31
+matplotlib>=3.8
+psutil>=5.9
+
+# Only needed for the optional Streamlit UI (streamlit run app.py)
+streamlit>=1.30
+pandas>=2.0

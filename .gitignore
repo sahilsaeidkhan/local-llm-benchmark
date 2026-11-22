@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# benchmark charts are regenerated from the CSVs with chart.py
+results/*.png
